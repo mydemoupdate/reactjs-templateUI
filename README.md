@@ -6,6 +6,9 @@ In the project directory, you can run:
 
 ### `npm start` / `yarn start`
 
+Use account admin@abc.xyz and password password to continue. 
+
+
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
