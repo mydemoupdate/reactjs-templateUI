@@ -1,0 +1,38 @@
+.MuiAutocomplete-inputRoot[class*="MuiOutlinedInput-root"] {
+    padding: 3px !important;
+}
+/* .table.table-head-custom thead tr, .table.table-head-custom thead th {
+    font-weight: 600;
+    color: black !important;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+} */
+.break-all{
+    word-break: break-all;
+}
+.table-hight-300{
+    height: 300px;
+    overflow: auto;
+}
+caption{
+    caption-side: top;
+}
+
+.timeline-demo .timeline-item .timeline-label {
+    width: 120px !important;
+    flex-shrink: 0;
+    font-size: 1rem;
+    font-weight: 500;
+    position: relative;
+    color: #3F4254;
+}
+.timeline-demo:before {
+    content: '';
+    position: absolute;
+    left: 120.5px !important;
+    width: 4px;
+    top: 0;
+    bottom: 0;
+    background-color: #EBEDF3;
+}
